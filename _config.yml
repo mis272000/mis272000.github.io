@@ -20,7 +20,7 @@ author: Maddison Segal
 ###############################################
 
 navbar-links:
-  Education: "aboutme"
+  Education: "Education"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
