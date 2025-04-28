@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Education
+# subtitle: Education
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Ph.D. Candidate in Mechanical Engineering & Materials Science at Duke University 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+B.S. in Biomedical Engineering from the University of Akron 
 
-What else do you need?
 
 ### My story
 
