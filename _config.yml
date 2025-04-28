@@ -24,7 +24,10 @@ navbar-links:
   Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Publications: 
+  Publications: "aboutme"
+  Presentations: "aboutme"
+  Honors: "aboutme"
+  
 
 ################
 # --- Logo --- #
