@@ -5,7 +5,7 @@ title: Education
 ---
 
 
-### Duke OOOO 
+### Duke University
 
 Ph.D. Candidate in Mechanical Engineering & Materials Science
 
