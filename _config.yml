@@ -20,13 +20,13 @@ author: Maddison Segal
 ###############################################
 
 navbar-links:
-  Education: "aboutme"
+  Education: "education"
   Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Publications: "pubs"
-  Presentations: "aboutme"
-  Honors: "aboutme"
+  Presentations: "presentations"
+  Honors: "honors"
   
 
 ################
