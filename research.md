@@ -12,6 +12,6 @@ In digital light processing (DLP) 3D printing, printed parts often suffer from u
 
 ### Improving Healthcare
 
-Temporary medical implants are typically made of non-degradable materials, requiring two surgeries: one for implantation and one for removal. Alternatively, if these implants were made from degradable materials, a secondary surgery could be avoided, as the **implant would instead degrade naturally in the body** over time. Using PAGES resins, I am working to fabricate **customizable implants** that are **fully degradable, biocompatible, and have controlled, adjustable mechanical properties** making them suitable for a wide variety of applications.
+Temporary medical implants are typically made of non-degradable materials, requiring two surgeries: one for implantation and one for removal. Alternatively, if these implants were made from degradable materials, a secondary surgery could be avoided, as the **implant would instead degrade naturally in the body** over time. Using PAGES resins, I am working to fabricate **customizable implants** using DLP 3D printing that are **fully degradable, biocompatible, and have controlled, adjustable mechanical properties** making them suitable for a wide variety of applications.
 
 
