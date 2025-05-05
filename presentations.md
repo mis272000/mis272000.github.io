@@ -5,6 +5,11 @@ title: Education xxx
 ---
 
 
-### Duke University
+### Duke GradX 2025
 
-Ph.D. Candidate in Mechanical Engineering & Materials Science
+![Presenter in front of screen](/PresentingGradX2025)
+
+
+### 3 Minute Thesis Regional Competition at the Conference of Southern Graduate Schools
+
+![Presenter in front of screen](/Presenting3MinThesisRegionals)
