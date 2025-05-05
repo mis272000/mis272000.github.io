@@ -20,7 +20,7 @@ Advanced Healthcare Materials 2024
 ACS Macro Letters 2024
 
 
-##### 3) [Iron Accumulation and Metabolic Alterations in Aneurysmal Subarachnoid Hemorrhage](https://www.ahajournals.org/doi/full/10.1161/SVIN.123.000848))  
+##### 3) [Iron Accumulation and Metabolic Alterations in Aneurysmal Subarachnoid Hemorrhage](https://www.ahajournals.org/doi/full/10.1161/SVIN.123.000848)   
 Stroke: Vascular and Interventional Neurology 2024
 
 
