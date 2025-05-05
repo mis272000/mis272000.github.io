@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Education xxx
+title: Presentations
 # subtitle: Presentations
 ---
 
