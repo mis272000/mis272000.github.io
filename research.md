@@ -4,7 +4,7 @@ title: Research
 # subtitle: Research
 ---
 
-I focus on designing **novel materials** to advance **additive manufacturing** and **healthcare**.  
+As an interdisciplinary engineering with a background in biomedical, mechanical, and materials engineering, my research focuses on designing **novel materials** to advance **additive manufacturing** and **healthcare**. In my research, I prioritize transltability to make ensure that my work has the potential to make real impacts in the world. 
 
 ### Improving Additive Manufacturing
 
