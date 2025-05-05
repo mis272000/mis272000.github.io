@@ -20,6 +20,6 @@ title: Presentations
 ![Presenter in front of screen](/Presenting3MTDuke.png)
 
 
-### Poster at Duke Materials Initiative Research Day
+### Duke Materials Initiative Research Day
 
 ![Presenter in front of screen](/PresentingPoster.jpg)
