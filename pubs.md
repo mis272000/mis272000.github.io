@@ -27,7 +27,6 @@ Stroke: Vascular and Interventional Neurology 2024
 ##### 2) [Digital Light Processing to Afford High Resolution and Degradable CO2-Derived Copolymer Elastomers] (https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202407794)
 Angewandte Chemie 2024
 
-Ph.D. Candidate in Mechanical Engineering & Materials Science
 
 ##### 1) [Synergistic Effect of Physical and Chemical Cross-Linkers Enhances Shape Fidelity and Mechanical Properties of 3D Printable Low-Modulus Polyesters](https://pubs.acs.org/doi/full/10.1021/acs.biomac.3c00684)   
 Biomacromolecules 2023
