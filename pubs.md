@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Education
-# subtitle: Education
+title: Publications
+# subtitle: Publications
 ---
 
 
-### Duke University
+### 7) 
 
 Ph.D. Candidate in Mechanical Engineering & Materials Science
 
-### University of Akron
+### 1) [Synergistic Effect of Physical and Chemical Cross-Linkers Enhances Shape Fidelity and Mechanical Properties of 3D Printable Low-Modulus Polyesters](https://pubs.acs.org/doi/full/10.1021/acs.biomac.3c00684) 
 
-B.S. in Biomedical Engineering
+Biomacromolecules 
 
-HHHHHIJBDIHBWDUCHVWUDJBKC
+2023
+
 
