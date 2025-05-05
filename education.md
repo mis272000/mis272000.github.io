@@ -6,6 +6,7 @@ title: Education
 
 
 ### Duke University
+2022 - Current
 Ph.D. Candidate in Mechanical Engineering & Materials Science  
 Research Advisor: [Dr. Matthew Becker](https://mems.duke.edu/people/matthew-becker/)  
 Teaching Assistant Advisor: [Dr. Stefan Zauscher](https://mems.duke.edu/people/stefan-zauscher/)  
@@ -14,6 +15,7 @@ Teaching Assistant Advisor: [Dr. Stefan Zauscher](https://mems.duke.edu/people/s
 
 
 ### University of Akron
+2018 - 2022
 B.S. in Biomedical Engineering  
 Minor in Chemistry  
 Research Advisors: [Dr. Abraham Joy](https://coe.northeastern.edu/people/joy-abraham/) and [Dr. Rebecca Willits](https://coe.northeastern.edu/people/willits-rebecca/)  
