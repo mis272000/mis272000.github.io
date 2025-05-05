@@ -7,6 +7,8 @@ title: Education
 
 ### Duke University
 Ph.D. Candidate in Mechanical Engineering & Materials Science
+Research Advisor: [Dr. Matthew Becker](https://mems.duke.edu/people/matthew-becker/)
+Teaching Assistant Advisor: [Dr. Stefan Zauscher](https://mems.duke.edu/people/stefan-zauscher/)
 
 ![Duke University logo](/Duke.png)
 
@@ -14,5 +16,7 @@ Ph.D. Candidate in Mechanical Engineering & Materials Science
 ### University of Akron
 B.S. in Biomedical Engineering  
 Minor in Chemistry  
+Research Advisors: [Dr. Abraham Joy](https://coe.northeastern.edu/people/joy-abraham/) and [Dr. Rebecca Willits](https://coe.northeastern.edu/people/willits-rebecca/)
+Teaching Assistant Advisors: [Dr. David Modarelli](https://www.uakron.edu/chemistry/faculty-staff/modarelli.dot)
 
 ![University of Akron Logo](/Akron.png)
