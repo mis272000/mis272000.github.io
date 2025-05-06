@@ -24,7 +24,9 @@ navbar-links:
   Research: "research"
   Publications: "pubs"
   Activity: "activity"
-  Skills: "skills"
+  Skills:
+    - Technical Skills: "techskills"
+    - Soft Skills: "softskills"
   CV: "CV"
   
 
