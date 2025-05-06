@@ -19,7 +19,7 @@ Teaching Assistant Advisor: [Dr. Stefan Zauscher](https://mems.duke.edu/people/s
 B.S. in Biomedical Engineering  
 Minor in Chemistry  
 Summa Cum Laude & Graduation with Honors  
-Commencement Ceremony Student Speaker [36:30-43:25](https://www.youtube.com/live/VLKsolwwitM)
+Commencement Ceremony Student Speaker [36:30-43:25](https://www.youtube.com/live/VLKsolwwitM)  
 Research Advisors: [Dr. Abraham Joy](https://coe.northeastern.edu/people/joy-abraham/) and [Dr. Rebecca Willits](https://coe.northeastern.edu/people/willits-rebecca/)  
 Teaching Assistant Advisors: [Dr. David Modarelli](https://www.uakron.edu/chemistry/faculty-staff/modarelli.dot)  
 
