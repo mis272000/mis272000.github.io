@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education
-# subtitle: Honors
+title: Technical Skills
+# subtitle: Technical Skills
 ---
 
 
