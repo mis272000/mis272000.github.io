@@ -29,5 +29,5 @@ Teaching Assistant Advisors: [Dr. David Modarelli](https://www.uakron.edu/chemis
 
 ### General McLane High School  
 2014 - 2018  
-Valedictorian & Summa Cum Laude 
+Valedictorian & Summa Cum Laude  
 Commencement Ceremony Student Speaker
