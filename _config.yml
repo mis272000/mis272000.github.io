@@ -23,8 +23,8 @@ navbar-links:
   Education: "education"
   Research: "research"
   Publications: "pubs"
-  Presentations: "presentations"
-  Awards: "honors"
+  Activity: "activity"
+  Skills: "skills"
   CV: "CV"
   
 
