@@ -18,6 +18,7 @@ Teaching Assistant Advisor: [Dr. Stefan Zauscher](https://mems.duke.edu/people/s
 2018 - 2022  
 B.S. in Biomedical Engineering  
 Minor in Chemistry  
+Specialization in Biomaterials & Tissue Engineering  
 Summa Cum Laude & Graduation with Honors  
 Commencement Ceremony Student Speaker [36:30-43:25](https://www.youtube.com/live/VLKsolwwitM)  
 Research Advisors: [Dr. Abraham Joy](https://coe.northeastern.edu/people/joy-abraham/) and [Dr. Rebecca Willits](https://coe.northeastern.edu/people/willits-rebecca/)  
