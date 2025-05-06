@@ -22,7 +22,9 @@ author: Maddison Segal
 navbar-links:
   Education: "education"
   Research: "research"
-  Publications: "pubs"
+  Publications: 
+    - Papers: "pubs"
+    - Patents: "patents"
   Activity: "activity"
   Skills:
     - Technical Skills: "techskills"
