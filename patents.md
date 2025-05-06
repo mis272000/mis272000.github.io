@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Education
-# subtitle: Education
+title: Patents
+# subtitle: Patents
 ---
 MKMKMKMKKK
 
