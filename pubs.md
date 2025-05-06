@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-# subtitle: Publications
+title: Published Papers
+# subtitle: Published Papers
 ---
 
 ##### 7) [Advances in Vat Photopolymerization: Early-Career Researchers Shine Light on a Path Forward](https://pubs.rsc.org/en/content/articlehtml/2025/lp/d5lp00010f)  
