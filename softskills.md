@@ -20,6 +20,9 @@ Adapted and optimized additive manufacturing techniques to accommodate novel sol
 ### Project Management
 Oversaw experimental timelines and task prioritization in preparation for a large animal study supporting a novel medical device. Managed research operations by developing standard operating procedures (SOPs) to ensure consistent data collection across the lab. Organized project documentation, facilitated effective team communication, and maintained shared digital resources. Trained team members on key instrumentation (e.g., 3D printers, rheometer, DMA, Instron, TGA).    
 
+### Curiosity
+Pursued independent research questions to deepen understanding of 3D printing resins, including synthesizing novel polymers with enhanced printability. Developed new methods to assess mechanical property loss during material degradation, expanding on traditional mass loss techniques. Investigated the use of mechanically robust particles to dope resins and broaden the mechanical performance range in DLP 3D printing. Demonstrated self-motivation and continuous learning by teaching myself Markdown to build a professional personal website.
+
 
 ### Adaptability & Learning Agility 
 Rapidly acquired and applied new techniques to meet tight deadlines set by peer reviewers for published manuscripts. Adapted research direction from degradable to non-degradable materials based on feedback from a major industry partner, demonstrating flexibility in response to evolving project needs.  
