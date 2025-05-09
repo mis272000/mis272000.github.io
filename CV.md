@@ -5,4 +5,4 @@ title: CV
 ---
 
 
-![Download my CV here](/CVMay2025.pdf) (last updated May 2025)
+[Download my CV here](/CVMay2025.pdf) (last updated May 2025)
