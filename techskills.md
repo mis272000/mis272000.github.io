@@ -5,7 +5,7 @@ title: Technical Skills
 ---
 
 
-#### Synthetic Chemistry   
+### Synthetic Chemistry   
 
 Schlenk line techniques  
 Cannulation  
@@ -17,14 +17,14 @@ Column chromatography
 Dialysis   
 Ring opening copolymerization (ROCOP)  
 
-#### Polymer Processing  
+### Polymer Processing  
 Digital light processing (DLP) 3D printing  
 Fused filament fabrication (FFF) 3D printing  
 Direct ink write (DIW) 3D printing    
 Molding  
 Film casting   
 
-#### Polymer Characterization  
+### Polymer Characterization  
 Nuclear magnetic resonance (NMR) including H-NMR, C-NMR, and COSY   
 Thermogravimetric analysis (TGA)  
 Differential scanning calorimetry (DSC)  
@@ -39,7 +39,7 @@ Histological analysis of explanted polymer-tissue samples
 
 
 
-#### Software   
+### Software   
 ###### CAD/Desgin  
 SOLIDWORKS  
 Autodesk Inventor  
@@ -62,7 +62,7 @@ Microsoft Excel
 Microsoft Word   
 Microsoft Powerpoint  
 
-#### Coursework 
+### Coursework 
 ###### Mechanical Engineering
 Calculus
 Differential equations 
