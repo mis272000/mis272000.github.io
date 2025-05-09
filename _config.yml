@@ -27,7 +27,7 @@ navbar-links:
     - Patents: "patents"
   Activity: "activity"
   Skills:
-    - Technical Skills: "techskills"
+    - Hard Skills: "techskills"
     - Soft Skills: "softskills"
   CV: "CV"
   
