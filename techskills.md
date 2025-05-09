@@ -62,42 +62,42 @@ Microsoft Excel
 Microsoft Word   
 Microsoft Powerpoint  
 
-### Coursework 
-###### Mechanical Engineering
-Calculus
-Differential equations 
-Physcis 
-Statistics
-Mechanics of solids
-Dynamics
-Thermodynamics
-Human factors engineering
-Rheology 
-###### Materials Science
-Biomaterials 
-Polymeric materials science 
-Modern materials
-Nanobiomechanics
-###### Biomedical Engineering
-Biomedical engineering design
-Human anatomy & physiology
-Biology
-Biomedical computing
-Transport fundamentals 
-Mechanics of biological tissues
-Biomedical ethics
-Biophysical measurements 
-Drug delivery
-FDA regulation & medical reimbursement 
-###### Chemistry
-Inorganic chemistry
-Organic chemistry
-Biochemistry
-Polymer chemistry
-Bioconjugations
-###### Professional Development
-Interdisciplinary project management
-Communicating research
-Business fundamentals
-Narrative design 
+### Coursework  
+###### Mechanical Engineering  
+Calculus  
+Differential equations   
+Physcis   
+Statistics  
+Mechanics of solids  
+Dynamics  
+Thermodynamics  
+Human factors engineering  
+Rheology   
+###### Materials Science  
+Biomaterials   
+Polymeric materials science   
+Modern materials  
+Nanobiomechanics  
+###### Biomedical Engineering  
+Biomedical engineering design  
+Human anatomy & physiology  
+Biology  
+Biomedical computing  
+Transport fundamentals   
+Mechanics of biological tissues  
+Biomedical ethics  
+Biophysical measurements   
+Drug delivery  
+FDA regulation & medical reimbursement   
+###### Chemistry  
+Inorganic chemistry  
+Organic chemistry  
+Biochemistry  
+Polymer chemistry  
+Bioconjugations  
+###### Professional Development  
+Interdisciplinary project management  
+Communicating research  
+Business fundamentals  
+Narrative design   
 
