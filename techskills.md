@@ -51,6 +51,7 @@ MestReNova (NMR)
 TRIOS  
 ###### Coding  
 MATLAB  
+Markdown   
 ###### 3D Printing  
 Carbon  
 Envision One RP  
