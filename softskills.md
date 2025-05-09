@@ -6,7 +6,7 @@ title: Soft Skills
 
 
 ### Communication
-Effectively communicated complex research to both scientific and general audiences. Delivered award-winning presentations, including first prize in the Carolina Science Symposium and champion of the Duke 3 Minute Thesis competition. Authored peer-reviewed technical manuscripts and enhanced science communication skills through professional development, including contributing to the Duke Professional Development Blog. Lectured large groups while serving as a teaching assistant for graduate level courses.   
+Effectively communicated complex research to both scientific and general audiences. Delivered award-winning presentations, including first prize at the Carolina Science Symposium and champion of the Duke 3 Minute Thesis competition. Authored peer-reviewed technical manuscripts and strengthened science communication skills through professional development activities, including writing for the Duke Professional Development Blog. Gained experience speaking to large audiences as a teaching assistant for graduate-level courses.
 
 
 ### Collaboration & Teamwork 
