@@ -16,10 +16,7 @@ Temporary medical implants are typically made of non-degradable materials, requi
 
 ### Technical Specialties 
 
-In addition to my core training, **I have developed expertise in both mechanical and biological characterization of materials**.  
-For mechanical characterization, I have **extensive hands-on experience with rheometers, dynamic mechanical analyzers (DMAs), and universal testing machines**. I have conducted a wide range of tests, including strain sweeps, frequency sweeps, temperature sweeps, time sweeps, creep testing, stress relaxation, gelation, tensile testing to failure, compressive testing to failure, cyclic tension and compression, and radial compression.  
-In terms of biological characterization, I am **proficient in performing all necessary steps for histological analysis of tissue samples**, with or without polymer implants. My experience includes the use of hematoxylin and eosin (H&E) staining as well as MOVAT pentachrome staining techniques.  
-These competencies have enabled me to contribute as a co-author to multiple peer-reviewed publications.  
+In addition to my core training, **I have developed expertise in both mechanical and biological characterization of materials**. For mechanical characterization, I have **extensive hands-on experience with rheometers, dynamic mechanical analyzers (DMAs), and universal testing machines**. I have conducted a wide range of tests, including strain sweeps, frequency sweeps, temperature sweeps, time sweeps, creep testing, stress relaxation, gelation, tensile testing to failure, compressive testing to failure, cyclic tension and compression, and radial compression. In terms of biological characterization, I am **proficient in performing all necessary steps for histological analysis of tissue samples**, with or without polymer implants. My experience includes the use of hematoxylin and eosin (H&E) staining as well as MOVAT pentachrome staining techniques. These competencies have enabled me to contribute as a co-author to multiple peer-reviewed publications.  
 
 
 ![3D Printed Structures](/PrintedCuties.jpg)
