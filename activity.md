@@ -35,6 +35,11 @@ title: Activity
 ![Presenter in front of screen](/Presenting3MTDuke.png)
 
 
+### News Article About My Recent Publication
+
+[New Solvent Free 3D Printing Material Could Enable Biodegradable Implants](https://pratt.duke.edu/news/new-solvent-free-3d-printing-material-could-enable-biodegradable-implants/)
+
+
 ### Duke Materials Initiative Research Day
 
 ![Presenter in front of screen](/PresentingPoster.jpg)
