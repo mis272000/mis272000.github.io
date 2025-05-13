@@ -5,7 +5,7 @@ title: Activity
 ---
 
 ### Duke BASF Research Day 2025 
-![Woman presenting to audience](/BASF.heic)
+![Woman presenting to audience](/BASF.jpg)
 
 ### RadTech 2025 RadLaunch Award Winner
 ![Award announcement](/RadTechAward.jpg)
