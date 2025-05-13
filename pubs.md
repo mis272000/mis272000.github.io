@@ -29,6 +29,6 @@ K. Poon, **M. Segal**, A. Bahnick, Y.M. Chan, B. Gao, M.L. Becker, C.K. Williams
 
 
 ##### 1) [Synergistic Effect of Physical and Chemical Cross-Linkers Enhances Shape Fidelity and Mechanical Properties of 3D Printable Low-Modulus Polyesters](https://pubs.acs.org/doi/full/10.1021/acs.biomac.3c00684)   
-Biomacromolecules 2023
+D. Ortiz-Ortiz, A.H. Mokarizadeh, **M. Segal**, F. Dang, M. Zafari, M. Tsige, A. Joy, Synergistic Effect of Physical and Chemical Crosslinkers Enhances Shape Fidelity and Mechanical Properties of 3D Printable Low Modulus Polyesters, Biomacromolecules, 2023, DOI: 10.1021/acs.biomac.3c00684
 
 
