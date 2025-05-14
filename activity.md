@@ -4,6 +4,9 @@ title: Activity
 # subtitle: Activity
 ---
 
+### Article I Wrote Published by the Duke Graduate School
+[Who Am I? Differentiating Your Identity from Your Job Title](https://gradschool.duke.edu/professional-development/blog/who-am-i-differentiating-your-identity-your-job-title/)
+
 ### Duke BASF Research Day 2025 
 ![Woman presenting to audience](/BASF.jpg)
 
