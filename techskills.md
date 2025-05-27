@@ -19,6 +19,7 @@ Ring opening copolymerization (ROCOP)
 
 ### Polymer Processing  
 Digital light processing (DLP) 3D printing  
+Continuous Liquid Interface Production (CLIP)
 Fused filament fabrication (FFF) 3D printing  
 Direct ink write (DIW) 3D printing    
 Molding  
