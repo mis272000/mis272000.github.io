@@ -29,7 +29,7 @@ navbar-links:
   Skills:
     - Hard Skills: "techskills"
     - Soft Skills: "softskills"
-  CV: "CV"
+  CV/Resume: "CV"
   
 
 ################
