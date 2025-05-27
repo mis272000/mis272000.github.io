@@ -9,7 +9,7 @@ A.P. Dhand, R.H. Bean, V. Chiaradia, A.J. Commisso, D. Dranseike, H.E. Fowler, J
 
 
 ##### 6) [Synthesis and Solvent Free DLP 3D Printing of Degradable Poly(Allyl Glycidyl Ether Succinate)](https://onlinelibrary.wiley.com/doi/full/10.1002/ange.202414016)  
-**M. Segal**, A.J. Bahnick, N. Judge, M.L. Becker, Synthesis and Solvent Free DLP 3D Printing of Degradable Poly(Allyl Glycidyl Ether Succinate), Angew Chem. Int. Ed., 2024, DOI: 10.1002/adhm.202414016
+**M. Segal**, A.J. Bahnick, N. Judge, M.L. Becker, Synthesis and Solvent Free DLP 3D Printing of Degradable Poly(Allyl Glycidyl Ether Succinate), Angew Chem. Int. Ed., 2024, DOI: 10.1002/anie.202414016
 
 
 ##### 5) [Controlled Transdermal Delivery of Dexamethasone for Pain Management via Photochemically 3D-Printed Bioresorbable Microneedle Arrays](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adhm.202402113)  
@@ -25,7 +25,7 @@ G. Pacheco, J.A.Gomes, K. Cho, D.L. Morris, **M. Segal**, K.R. Adkins-Travis, E.
 
 
 ##### 2) [Digital Light Processing to Afford High Resolution and Degradable CO2-Derived Copolymer Elastomers](https://onlinelibrary.wiley.com/doi/full/10.1002/anie.202407794)  
-K. Poon, **M. Segal**, A. Bahnick, Y.M. Chan, B. Gao, M.L. Becker, C.K. Williams, Digital Light Processing to Afford High Resolution and Degradable CO2-Derived Copolymer Elastomers, Angew Chem. Int. Ed., 2024, DOI: 10.1002/anie,202407794
+K. Poon, **M. Segal**, A. Bahnick, Y.M. Chan, B. Gao, M.L. Becker, C.K. Williams, Digital Light Processing to Afford High Resolution and Degradable CO2-Derived Copolymer Elastomers, Angew Chem. Int. Ed., 2024, DOI: 10.1002/anie.202407794
 
 
 ##### 1) [Synergistic Effect of Physical and Chemical Cross-Linkers Enhances Shape Fidelity and Mechanical Properties of 3D Printable Low-Modulus Polyesters](https://pubs.acs.org/doi/full/10.1021/acs.biomac.3c00684)   
