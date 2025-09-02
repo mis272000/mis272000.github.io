@@ -22,7 +22,7 @@ Specialization in Biomaterials & Tissue Engineering
 Summa Cum Laude & Graduation with Honors  
 Commencement Ceremony Student Speaker [36:30-43:25](https://www.youtube.com/live/VLKsolwwitM)  
 Research Advisors: [Dr. Abraham Joy](https://coe.northeastern.edu/people/joy-abraham/) and [Dr. Rebecca Willits](https://coe.northeastern.edu/people/willits-rebecca/)  
-Teaching Assistant Advisors: [Dr. David Modarelli](https://www.uakron.edu/chemistry/faculty-staff/modarelli.dot)  
+Teaching Assistant Advisor: [Dr. David Modarelli](https://www.uakron.edu/chemistry/faculty-staff/modarelli.dot)  
 
 ![University of Akron Logo](/Akron.png)
 
