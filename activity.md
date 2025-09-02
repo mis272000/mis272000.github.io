@@ -10,7 +10,7 @@ title: Activity
 ### RadTech 2025 Invited Speaker
 ![Woman presenting in front of screen](/RadTechTalk.jpg)
 
-### Article I Wrote Published by the Duke Graduate School
+### Professional Development Article Published by the Duke Graduate School
 [Who Am I? Differentiating Your Identity from Your Job Title](https://gradschool.duke.edu/professional-development/blog/who-am-i-differentiating-your-identity-your-job-title/)
 
 ### Duke BASF Research Day 2025 
