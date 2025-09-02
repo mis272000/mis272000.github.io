@@ -5,6 +5,6 @@ title: CV/Resume
 ---
 
 
-[Download my CV here](/CVAug2025.pdf) (last updated September 2025)
+[Download my CV here](/CVSept2025_MaddisonSegal.pdf) (last updated September 2025)
 
-[Download my Resume here](/ResumeAug2025.pdf) (last updated September 2025)
+[Download my Resume here](/ResumeSept2025_MaddisonSegal.pdf) (last updated September 2025)
