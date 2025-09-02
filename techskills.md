@@ -29,7 +29,7 @@ Film casting
 Nuclear magnetic resonance (NMR) including H-NMR, C-NMR, and COSY   
 Thermogravimetric analysis (TGA)  
 Differential scanning calorimetry (DSC)  
-Size exclusion chromatogrpahy (SEC)  
+Size exclusion chromatography (SEC)  
 Matrix assisted laser desorption/ionization time of flight (MALDI TOF) spectroscopy  
 Fourier transform infrared (FT-IR) spectroscopy   
 Rheology  
@@ -41,7 +41,7 @@ Histological analysis of explanted polymer-tissue samples
 
 
 ### Software   
-###### CAD/Desgin  
+###### CAD/Design  
 SOLIDWORKS  
 Autodesk Inventor  
 nTopology  
@@ -68,7 +68,7 @@ Microsoft Powerpoint
 ###### Mechanical Engineering  
 Calculus  
 Differential equations   
-Physcis   
+Physics   
 Statistics  
 Mechanics of solids  
 Dynamics  
