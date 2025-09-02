@@ -4,6 +4,10 @@ title: Papers
 # subtitle: Papers
 ---
 
+##### 8) [Injectable, Solvent Free Strontium Carbonate Poly(Allyl Glycidyl Ether Succinate) Composite Networks for Vertebral Augmentation](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adhm.202501633)  
+R.E. Thompson, **M.I. Segal**, S. Sipics, N.G. Judge, A. Bensoussan, B. Keshavarz, M.L. Becker, Injectable Solvent Free Strontium Carbonate Poly(Ally GLycidyl Ether Succinate) Composite Netowkrs for Vertebral Augmentation, Advanced Healthcare Materials, 2025, DOI: 10.1002/adhm.202501633  
+
+
 ##### 7) [Advances in Vat Photopolymerization: Early-Career Researchers Shine Light on a Path Forward](https://pubs.rsc.org/en/content/articlehtml/2025/lp/d5lp00010f)  
 A.P. Dhand, R.H. Bean, V. Chiaradia, A.J. Commisso, D. Dranseike, H.E. Fowler, J.M. Fraser, H. Howard, T. Kaneko, J. Kim, J.M. Kronenfeld, K.S. Mason, C.J. O’Dea, F. Pashley-Johnson, D.H. Porcincula, **M.I. Segal**, S.Yu, M.A. Saccone, Advances in vat photopolymerization: early-career researchers shine light on a path forward, RSC Applied Polymers, 2025, DOI: 10.1039/D5LP00010F  
 
