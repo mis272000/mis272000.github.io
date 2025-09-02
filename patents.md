@@ -4,6 +4,11 @@ title: Patents
 # subtitle: Patents
 ---
 
+##### 3) Degradable Silyl Ether Based Thiol Crosslinkers for Photochemical Printing  
+Patent Pending  
+Maddison Segal, Emily Augustine, & Matthew Becker   
+2025  
+
 
 ##### 2) Self-Polymerizing, Radiopaque Resin for Percutaneous Vertebroplasty  
 Patent Pending  
